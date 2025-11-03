@@ -11,4 +11,5 @@ plugins {
 }
 
 rootProject.name = 'Dragonleash server'
-include('app')
+
+include 'app', 'db'

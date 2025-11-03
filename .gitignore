@@ -3,3 +3,13 @@
 
 # Ignore Gradle build output directory
 build
+*/build
+*/bin
+
+# Ignore JDTLS related stuff
+.classpath
+.project
+.settings
+*/.classpath
+*/.project
+*/.settings
